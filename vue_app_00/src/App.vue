@@ -5,6 +5,10 @@
 </template>
 
 <style>
+    body{
+        margin:0px;
+        background-color:#EEEEEE;
+    }
    .app-container{
      padding:0px;
      overflow-x:hidden;
