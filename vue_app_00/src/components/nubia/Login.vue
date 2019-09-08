@@ -15,7 +15,7 @@
         <!--用户名-->
         <mt-field :placeholder="unameholder" v-model="uname" class="iconfont icon-yonghu"></mt-field>
         <!--密码-->
-        <mt-field :placeholder="upwdholder" v-model="upwd"  class="iconfont icon-mima1"type="password"></mt-field>
+        <mt-field :placeholder="upwdholder" v-model="upwd"  class="iconfont icon-mima1" type="password"></mt-field>
         <!--登录按钮-->
         <mt-button size="large" @click="login" class="mybutton">登录</mt-button>
         <div class="mylogin">
