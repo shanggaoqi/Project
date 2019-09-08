@@ -15,7 +15,7 @@ import Partlist from "./components/nubia/Partlist.vue"
 //引入 Detail.vue组件
 import Detail from './components/nubia/Detail.vue'
 Vue.use(Router)
-console
+console1
 //为组件配置路径
 export default new Router({
   routes: [
